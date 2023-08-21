@@ -32,7 +32,7 @@ BotSharp is in accordance with components principle strictly, decouples every pa
 ```sh
  PS D:\> git clone https://github.com/dotnetcore/BotSharp
  PS D:\> cd BotSharp
- PS D:\BotSharp\> dotnet run -project .\src\WebStarter
+ PS D:\BotSharp\> dotnet run --project .\src\WebStarter
 ```
 2. Run UI project, reference to [Chatbot UI](src/Plugins/BotSharp.Plugin.ChatbotUI/Chatbot-UI.md).
 
